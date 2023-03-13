@@ -1,0 +1,15 @@
+total 60
+drwxr-xr-x 2 fifi fifi  4096 Mar 13 23:46 .
+drwxr-xr-x 6 fifi fifi  4096 Mar 13 17:50 ..
+-rw-r--r-- 1 fifi fifi 12288 Mar 13 18:19 .1-confused_smiley.swp
+-rwxr--r-- 1 fifi fifi    32 Mar 13 18:16 0-hello_world
+-rwxr--r-- 1 fifi fifi    28 Mar 13 19:01 1-confused_smiley
+-rwxr--r-- 1 fifi fifi    28 Mar 13 19:03 2-hellofile
+-rwxr--r-- 1 fifi fifi    40 Mar 13 19:06 3-twofiles
+-rwxr--r-- 1 fifi fifi    35 Mar 13 19:35 4-lastlines
+-rwxr--r-- 1 fifi fifi    35 Mar 13 19:38 5-firstlines
+-rwxr--r-- 1 fifi fifi    41 Mar 13 20:33 6-third_line
+-rwxr--r-- 1 fifi fifi    77 Mar 13 23:40 7-file
+-rw-r--r-- 1 fifi fifi    27 Mar 13 17:51 README.md
+-rw-r--r-- 1 fifi fifi   801 Mar 13 19:42 iacta
+-rw-r--r-- 1 fifi fifi     0 Mar 13 23:47 ls_cwd_content
