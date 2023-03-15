@@ -1,4 +1,2 @@
 #!/bin/bash
-printenv PATH | printf "The PATH is: %s\n" | declare 
-
-
+set 
